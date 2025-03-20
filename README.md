@@ -29,5 +29,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Erkan3034&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=ErkanTrg&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
