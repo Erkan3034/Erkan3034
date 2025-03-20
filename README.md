@@ -18,8 +18,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/erkanturgut1205(#)
-- 📷 Instagram: [https://instagram.com/coderr.zone](#)
+- 💼 LinkedIn: www.linkedin.com/in/erkanturgut1205
+- 📷 Instagram: https://instagram.com/coderr.zone
 - 📧 Email: turguterkan1306@gmail.com
 
 > "Continuous learning and building cool stuff! 🚀"
