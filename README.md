@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently studying **Computer Technology and Information Systems (CTIS)**.
+- 🎓 I'm currently studying **Computer Technology and Informatic Systems (CTIS)**.
 - 💻 Passionate about **Software Development, AI, and Fullstack Development**.
 - 📚 Exploring **Artificial Intelligence, Web Development, and Digital Marketing**.
 - 🎯 Goal: To build my own **software business** in the future.
