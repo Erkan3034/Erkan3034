@@ -9,8 +9,9 @@
 
 ## 🌍 My Projects & Interests
 
-- 🔹 **CoderrZone Blog** - Providing coding resources for beginners.
-- 🔹 Developing **AI-powered applications and tools**.
+- 🔹 **Codenthia Blog Web Site** - Providing coding resources and Social Community for programmers.
+- 🔹 **Personal Blog Site** - Created personal blog site for share blog posts like medium.com
+- 🔹 Developing **AI-powered applications and tools(Such as PulsAI in my repos)**.
 - 🔹 Creating digital products for **new programmers**.
 
 
