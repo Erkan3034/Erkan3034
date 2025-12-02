@@ -51,16 +51,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erkan3034&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
 
-<a href="https://github.com/Erkan3034">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erkan3034&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkan3034&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</a>
+  <a href="https://github.com/Erkan3034">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erkan3034&theme=tokyonight" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erkan3034&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
 
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Erkan3034&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Erkan3034&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ### 🔝 Top Contributed Repo
