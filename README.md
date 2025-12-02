@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erkan3034&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Erkan3034&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/><br/>
 
