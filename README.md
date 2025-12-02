@@ -91,6 +91,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   <br><br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ErkanTrg&label=Profile%20Views&color=10&icon=0&pretty=true" />
-  </a>
+[![](https://visitcount.itsvg.in/api?id=Erkan3034&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in) </a>
 </div>
