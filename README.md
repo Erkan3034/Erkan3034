@@ -90,6 +90,6 @@
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   <br><br>
-  <a href="https://visitcount.itsvg.in">
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FErkan3034&leftColor=000000&rightColor=0adb3f&type=total&label=visitors%3A&style=none)</a>
+  
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FErkan3034&leftColor=000000&rightColor=0adb3f&type=total&label=visitors%3A&style=none)
 </div>
